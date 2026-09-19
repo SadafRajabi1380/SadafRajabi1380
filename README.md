@@ -26,3 +26,5 @@ Frontend Developer | React | JavaScript | Learning Backend with C# & .NET
 
 
 ## 🚀 Current Focus
+
+🏭 Developing an integrated CMMS system for equipment lifecycle management, maintenance operations, work orders, inventory, and engineering workflows.
