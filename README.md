@@ -1,21 +1,22 @@
 <h1 align="center">Hi 👋, I'm Sadaf</h1>
 
 <h3 align="center">
-Frontend Developer | React | JavaScript | Learning Backend with C# & .NET
+Frontend Developer | React | JavaScript | UI/UX | Learning Backend with C# & .NET
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+JavaScript+%7C+Tailwind;Building+Enterprise+Applications;Learning+C%23+%26+.NET" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+%7C+JavaScript+%7C+Tailwind+CSS;Building+Enterprise+Applications;Learning+C%23+%26+.NET" />
 </p>
 
 
 ## 👨‍💻 About Me
 
 - 🚀 Frontend Developer specialized in **React and JavaScript**
-- 🎨 Building modern and responsive user interfaces with **Tailwind CSS**
-- 🏗️ Experienced in developing real-world web applications
+- 🎨 Experienced in designing modern and responsive user interfaces with **UI/UX principles**
+- 🏗️ Working on enterprise-level applications and complex business workflows
+- 🔍 Experienced in **software analysis, requirements engineering, and process modeling**
 - 🌱 Currently expanding my skills toward **Backend Development using C# and .NET**
-- 💡 Interested in software architecture, clean code, and scalable systems
+- 💡 Interested in clean architecture, scalable systems, and digital transformation
 
 
 ## 🛠 Technologies & Tools
@@ -27,7 +28,27 @@ Frontend Developer | React | JavaScript | Learning Backend with C# & .NET
 
 ## 🎯 Current Focus
 
-🏭 Developing an integrated **CMMS (Computerized Maintenance Management System)** for equipment lifecycle management, maintenance operations, work orders, inventory, and engineering workflows.
+🏭 Developing an integrated **CMMS (Computerized Maintenance Management System)** for managing equipment lifecycle, maintenance operations, work orders, inventory, and engineering workflows.
+
+The system focuses on digitizing operational processes, improving equipment traceability, and providing centralized visibility across multiple units and workflows.
+
+
+## 📌 Enterprise Project Experience
+
+### 🏭 CMMS Platform
+
+An enterprise maintenance management system designed for drilling equipment and service operations.
+
+Key areas:
+
+- Equipment lifecycle and asset management
+- Equipment receipt, dispatch, transfer, and location tracking
+- Maintenance, repair, inspection, and work-order workflows
+- Spare parts and inventory management
+- Service request and approval processes
+- Equipment history and lifecycle tracking
+- Operational dashboards, KPIs, and engineering reports
+- Requirements analysis and business process digitalization
 
 
 ## 🌱 Currently Learning
@@ -43,20 +64,6 @@ Frontend Developer | React | JavaScript | Learning Backend with C# & .NET
 - Database Design
 
 
-## 🚀 Featured Project
-
-### 🏭 CMMS Enterprise Platform
-
-A maintenance management system designed to digitize equipment-related operational processes.
-
-Key areas:
-- Equipment lifecycle management
-- Work order workflows
-- Inventory and spare parts management
-- Maintenance operations
-- Engineering dashboards and reports
-
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -68,21 +75,10 @@ Key areas:
 </p>
 
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SadafRajabi1380&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
 ## 🤝 Connect With Me
 
 <p align="left">
-
 <a href="https://linkedin.com">
 <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
-
 </p>
